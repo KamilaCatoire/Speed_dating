@@ -9,6 +9,6 @@ Explore a dataset derived from a speed dating experiment conducted between 2002 
 
 The notebook should encompass:
 
-    Descriptive statistics
-    Visualizations
-    Captions and interpretations highlighting the relevance of these factors in influencing individuals' decisions to accept or decline a second date.
+ -   Descriptive statistics
+ -   Visualizations
+ -   Captions and interpretations highlighting the relevance of these factors in influencing individuals' decisions to accept or decline a second date.
