@@ -15,4 +15,4 @@ The notebook should encompass:
 
 # Presentation video
 
-https://share.vidyard.com/watch/MBPcGvbJXgtJmNn5TJHS1P?
+https://share.vidyard.com/watch/MBPcGvbJXgtJmNn5TJHS1P?/
