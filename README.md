@@ -12,3 +12,7 @@ The notebook should encompass:
  -   Descriptive statistics
  -   Visualizations
  -   Captions and interpretations highlighting the relevance of these factors in influencing individuals' decisions to accept or decline a second date.
+
+# Presentation video
+
+https://share.vidyard.com/watch/MBPcGvbJXgtJmNn5TJHS1P?
